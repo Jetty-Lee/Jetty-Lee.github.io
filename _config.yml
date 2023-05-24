@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "JooHee Lee"
-resume_title:                   "Introduction"
+resume_name:                    "Jetty-Lee"
+resume_title:                   "Introduction and Contact"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jhl0188@g.skku.edu"
@@ -46,13 +46,13 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/Jetty-Lee"
-  resume_twitter_url:           "http://twitter.com"
-  resume_dribbble_url:          "jetty-lee.github.io"
+#   resume_twitter_url:           "http://twitter.com"
+#   resume_dribbble_url:          "jetty-lee.github.io"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://jetty-lee.github.io"
-  resume_medium_url:            "https://jetty-lee.github.io"
+#   resume_linkedin_url:          "https://www.linkedin.com"
+  resume_instagram_url:         "https://www.instagram.com/aug.8__"
+#   resume_website_url:           "https://jetty-lee.github.io"
+#   resume_medium_url:            "https://jetty-lee.github.io"
 resume_print_social_links:      true
 
 # Design settings
