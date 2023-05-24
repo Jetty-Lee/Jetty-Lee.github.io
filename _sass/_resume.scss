@@ -55,7 +55,7 @@
 
     .header-title {
       @include sans;
-      font-weight: 300;
+      font-weight: 900;
       font-size: 1.75rem;
       line-height: 2rem;
       letter-spacing: -.05rem;
@@ -110,7 +110,7 @@
 
 .contact-button {
   @include border-radius(3px);
-  background-color: #efefef;
+  background-color: #ff7ebb;
   text-decoration: none;
   text-align: center;
   display: block;
@@ -118,12 +118,12 @@
   width: 220px;
   font-size: 1.375rem;
   @include sans_light;
-  color: #333;
+  color: #fff;
   line-height: 55px;
   @include transition(all .2s ease);
 
   &:hover {
-    background-color: #333;
+    background-color: #ffcbcb;
     color: #fff;
   }
 
